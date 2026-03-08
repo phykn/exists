@@ -5,3 +5,7 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "exists"
 version = "0.1.0"
+description = "A minimal utility to check if a value is not None"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
